@@ -14,5 +14,6 @@ Simply copy the file into your own project, preferably in a centralized `types` 
 
 ### truffle-assertions
 A useful helper library for unit testing Ethereum smart contracts.
+
 :arrow_right: https://github.com/rkalis/truffle-assertions
 
